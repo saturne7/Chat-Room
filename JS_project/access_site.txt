@@ -1,0 +1,15 @@
+#Javascript
+
+Ce site réalisé à l'aide de PHP et de Javascript est une application de messagerie instantanée
+
+Lorsque vous arrivez sur notre site il vous suffit de vous identifier à l'aide 
+de votre nom ou bien de pseudonyme afin d'accéder au chat.
+
+Vous donc maintenant communiquer avec les autres utilisateurs qui utiliserons ce site. 
+
+Pour accéder à ce dernier veuillez cliquez sur le lien suivant :
+
+https://chatroom-barrieres-rigal.000webhostapp.com/index.php
+
+
+
